@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/skRabbani555/skRabbani555/main/assets/download.gif" width="700" alt="Glowing tech desk coding banner" />
+  <img src="https://raw.githubusercontent.com/skRabbani555/skRabbani555/main/assets/download.gif" width="600" alt="Glowing tech desk coding banner" />
 </p>
 
 
