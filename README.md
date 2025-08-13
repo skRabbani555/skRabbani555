@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/skRabbani555/skRabbani555/main/assets/download.gif" width="700" alt="Glowing tech desk coding banner" />
 </p>
+
 
 ---
 
